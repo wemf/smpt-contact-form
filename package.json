@@ -1,0 +1,19 @@
+{
+  "name": "landing-final-mediangel",
+  "version": "0.1.0",
+  "description": "Landing page Mediangel Spa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ON-Digital/landing-final-mediangel.git"
+  },
+  "author": "Ondigital Team",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ON-Digital/landing-final-mediangel/issues"
+  },
+  "homepage": "https://github.com/ON-Digital/landing-final-mediangel#readme"
+}
